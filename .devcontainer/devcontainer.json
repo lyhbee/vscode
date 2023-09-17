@@ -15,7 +15,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"mutantdino.resourcemonitor"
+				"mutantdino.resourcemonitor",
+				"rust-lang.rust-analyzer"
 			]
 		}
 	}
